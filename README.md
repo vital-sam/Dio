@@ -23,8 +23,8 @@ O Azure é a plataforma de computação em nuvem da Microsoft, oferecendo centen
 Confira abaixo:
 
 ![IaaS, PaaS e SaaS ](imagem/image1.png)
-![Tempo de SLA](imagem/image2.png)
-![Geral](imagem/image3.png)
+![Tempo de SLA](imagem/image3.png)
+![Geral](imagem/image2.png)
 
 ---
 *Repositório para fins educacionais.*
