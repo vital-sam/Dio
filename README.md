@@ -1,6 +1,6 @@
 # *Dio*
 
-# Azure resume 🚀
+# Resumo Azure 🚀
 
 > Breve descrição e oquê o projeto faz.
 
@@ -18,6 +18,13 @@ O Azure é a plataforma de computação em nuvem da Microsoft, oferecendo centen
 - **SLA (Service Level Agreement):** Compromisso de disponibilidade.
 - **Escalabilidade:** Capacidade de aumentar recursos (Vertical ou Horizontal).
 - **Modelo de Responsabilidade Compartilhada:** O que a Microsoft cuida vs. o que VOCÊ cuida.
+
+### 🖥️ Prints
+Confira abaixo:
+
+![IaaS, PaaS e SaaS ](adicionar-pasta-de-imagens/img//image3.png)
+![Tempo de SLA](img/image2.png)
+![Geral](img/image1.png)
 
 ---
 *Repositório para fins educacionais.*
