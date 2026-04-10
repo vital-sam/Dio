@@ -1,6 +1,6 @@
 # 🤖 Projeto A
 
-Descrição do projeto B
+Descrição do projeto 
 
 ## ⚙️ Configuração
 ...
